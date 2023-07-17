@@ -15,6 +15,8 @@
                     "Microsoft.Network/virtualNetworks/*",
                     "Microsoft.Network/virtualWans/*",
                     "Microsoft.Resources/deployments/*",
+                    "Microsoft.Solutions/locations/operationStatuses/read",
+                    "Microsoft.Solutions/locations/operationStatuses/write",
                     "Microsoft.Resources/subscriptions/resourceGroups/read",
                     "Microsoft.Authorization/roleAssignments/write",
                     "Microsoft.Resources/subscriptions/resourceGroups/write",
